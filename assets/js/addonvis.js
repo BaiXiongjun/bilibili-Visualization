@@ -1,5 +1,5 @@
 //src
-var serverIp = 'http://127.0.0.1:3000/';
+var serverIp = 'https://h12345jack.github.io/bilibili-Visualization/';
 
 //react
 if($("div#root").length == 0){
